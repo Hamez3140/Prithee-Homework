@@ -1,0 +1,13 @@
+1. input: the correct word with correct formatting is input three times in a row
+expected output:You got three correct! Good Job!
+
+2. input: the incorrect word or incorrect formatting is input three times in a row
+expected output:You got three incorrect. Please try again.
+
+3. input: the correct word is input twice, but the incorrect word is input three times
+in after that
+expected output:You got three incorrect. Please try again.
+
+4. input:the incorrect word is input twice, the correct word is put three times after
+that
+expected output:You got three correct! Good Job!

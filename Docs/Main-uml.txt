@@ -1,0 +1,6 @@
+Main
+------------------------------
+No Fields
+------------------------------
++main(String[] args): Nothing Returned #Give the sonnet up to a random word. Prompt the user
+for the next word. Repeat until either 3 correct or 3 incorrect answers are given.

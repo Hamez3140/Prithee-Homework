@@ -1,0 +1,31 @@
+I used Microsoft Copilot to help with this assignment, but I did not use
+to directly generate the whole solution. The version and relevant prompts
+used to help are listed below.
+
+Version:  Microsoft Copilot - continuously updated (no specific version numbers)
+using the Microsoft 365 Family plan
+
+
+Relevant prompts used
+im working on a programming problem in java. I will give u the the
+instructions but dont give any solutions yet, just keep these in
+mind for future questions:[the basic instructions from the assignment doc]
+
+the first thing I need to do is split the sonnet into an array properly,
+how would you do this
+
+next I need to pick a random word to stop at
+
+ok now I need to prompt the user to enter the correct word, and save
+their response in a variable
+
+now can you help me preserve the formatting when printing it
+
+
+can you fill in the blanks for this: for (String line : lines) {
+String[] words = line.split("\\s+");
+for (String word : words) {
+// print word or stop at hidden word
+}
+System
+
